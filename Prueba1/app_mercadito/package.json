@@ -54,6 +54,7 @@
     "@loopback/rest": "^9.1.0",
     "@loopback/rest-explorer": "^3.0.4",
     "@loopback/service-proxy": "^3.0.4",
+    "download-git-repo": "^3.0.2",
     "loopback-connector-mssql": "^3.8.0",
     "tslib": "^2.0.0"
   },
